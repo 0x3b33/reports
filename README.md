@@ -25,6 +25,7 @@
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
 | [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-stable-coin) | - |
-| [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | 1 | - | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-escrow/high) | 0 USDC |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-beedles) | 1399.65 USDC |
 | [Sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | - | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-08-spakn/medium) | - |
+
+PS. Only valid submissions are here, as I deleted the invalid ones to avoid inflating my numbers.
