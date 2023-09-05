@@ -13,7 +13,7 @@
 | Contest | High risk | Medium risk | Security report  | Payout  | Analisys |
 |:--:|:--:|:--:|:--:|:--:|
 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | report | Analisys | 1,819.66 USDC |
-| [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | - | - | report | Analisys | 732.43 USDC|
+| [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analisys | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analisys | 4,094.99 USDC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | - | - | report | Analisys | - |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | - | - | report | Analisys | - |
@@ -27,4 +27,4 @@
 | [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 1 | report | - |
 | [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | 1 | - | report | 0 USDC |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | report | 1399.65 USDC |
-| [Sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | 3 | report | 1399.65 USDC |
+| [Sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | - | report | - |
