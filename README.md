@@ -1,3 +1,5 @@
+
+
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
 | Contest | High risk | Medium risk | Security report | Payout |
@@ -15,7 +17,7 @@
 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/tree/master/c4/2023-06-lybra) | [Analisys](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analisys.md) | 1,819.66 USDC |
 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analisys | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analisys | 4,094.99 USDC |
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analisys | - |
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analisys | 524.96 USDC |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analisys | - |
 | [Liverpeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top) | loading... | loading... | report | Analisys | - |
 | [Delegate](https://code4rena.com/contests/2023-09-delegate#top) | loading... | loading... | report | Analisys | - |
@@ -24,7 +26,7 @@
 
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
-| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-stable-coin) | - |
+| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-stable-coin) | - |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-beedles) | 1399.65 USDC |
 | [Sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-08-spakn/medium) | - |
 
