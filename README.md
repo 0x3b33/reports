@@ -12,15 +12,15 @@
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
-| Contest | High risk | Medium risk | Security report  | Payout  | Analisys |
+| Contest | High risk | Medium risk | Security report  | Payout  | Analysis |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/tree/master/c4/2023-06-lybra) | [Analisys](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analisys.md) | 1,819.66 USDC |
-| [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analisys | 732.43 USDC|
-| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analisys | 4,094.99 USDC |
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analisys | 524.96 USDC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analisys | - |
-| [Liverpeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top) | loading... | loading... | report | Analisys | - |
-| [Delegate](https://code4rena.com/contests/2023-09-delegate#top) | loading... | loading... | report | Analisys | - |
+| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/tree/master/c4/2023-06-lybra) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analysis.md) | 1,819.66 USDC |
+| [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
+| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analysis | 4,094.99 USDC |
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analysis | 524.96 USDC |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
+| [Liverpeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top) | loading... | loading... | report | Analysis | - |
+| [Delegate](https://code4rena.com/contests/2023-09-delegate#top) | loading... | loading... | report | Analysis | - |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
