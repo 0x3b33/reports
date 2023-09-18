@@ -1,4 +1,9 @@
 
+# Summary
+
+| Overall | High risk |  Medium risk | Audited contests |
+|:--:|:--:|:--:|:--:|
+| 28 High/Medium | 14 High | 14 Medium | 17 |  
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
@@ -9,6 +14,7 @@
 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft) | 239.83 USDC | 
 | [Tokemak](https://audits.sherlock.xyz/contests/101) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokemak) | - | 
 | [Cooler](https://audits.sherlock.xyz/contests/107) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-08-cooler/high) | - | 
+| [Allo v2](https://audits.sherlock.xyz/contests/109) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-08-cooler/high) | - | 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
@@ -21,6 +27,7 @@
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
 | [Liverpeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top) | loading... | loading... | report | Analysis | - |
 | [Delegate](https://code4rena.com/contests/2023-09-delegate#top) | loading... | loading... | report | Analysis | - |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | loading... | loading... | report | Analysis | - |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
