@@ -3,7 +3,7 @@
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 28 High/Medium | 14 High | 14 Medium | 17 |  
+| 28 High/Medium | 14 High | 14 Medium | 15 |  
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
@@ -33,9 +33,7 @@
 
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
-| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-stable-coin) | - |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-beedles) | 1399.65 USDC |
-| [Sparkn](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-08-spakn/medium) | - |
 
 ---
 
