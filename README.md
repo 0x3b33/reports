@@ -13,7 +13,7 @@
 | [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-bond/high) | 99.50 USDC |  
 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft) | 239.83 USDC | 
 | [Tokemak](https://audits.sherlock.xyz/contests/101) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokemak) | - | 
-| [Allo v2](https://audits.sherlock.xyz/contests/109) | loading... | loading... | [report]() | - | 
+| [Allo v2](https://audits.sherlock.xyz/contests/109) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-09-allo) | - | 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
