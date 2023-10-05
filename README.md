@@ -1,9 +1,9 @@
 
 # Summary
 
-| Overall | High risk |  Medium risk | Audited contests |
+| Overall | High risk |  Medium risk |  
 |:--:|:--:|:--:|:--:|
-| 28 High/Medium | 14 High | 14 Medium | 15 |  
+| 28 High/Medium | 13 High | 13 Medium | 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
@@ -23,7 +23,7 @@
 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analysis | 4,094.99 USDC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analysis | 524.96 USDC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | l- |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | loading... | 1 | report | Analysis | 3,092.32 USDC |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | loading... | loading... | report | Analysis | -  |
 
