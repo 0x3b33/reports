@@ -2,7 +2,7 @@
 # Summary
 
 | Overall | High risk |  Medium risk |  
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | 28 High/Medium | 13 High | 13 Medium | 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
