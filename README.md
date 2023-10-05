@@ -13,7 +13,7 @@
 | [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-bond/high) | 99.50 USDC |  
 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft) | 239.83 USDC | 
 | [Tokemak](https://audits.sherlock.xyz/contests/101) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokemak) | - | 
-| [Allo v2](https://audits.sherlock.xyz/contests/109) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-09-allo) | - | 
+| [Allo v2](https://audits.sherlock.xyz/contests/109) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-09-allo) | -  | 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
@@ -23,10 +23,9 @@
 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analysis | 4,094.99 USDC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analysis | 524.96 USDC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
-| [Liverpeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top) | loading... | loading... | report | Analysis | - |
-| [Delegate](https://code4rena.com/contests/2023-09-delegate#top) | loading... | loading... | report | Analysis | - |
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | loading... | loading... | report | Analysis | - |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | l- |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | loading... | 1 | report | Analysis | 3,092.32 USDC |
+| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | loading... | loading... | report | Analysis | -  |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
