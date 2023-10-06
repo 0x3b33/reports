@@ -31,7 +31,7 @@
 
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/tree/master/codeHawks/2023-07-beedles) | 1399.65 USDC |
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/blob/master/codeHawks/2023-07-beedles/report.md) | 1399.65 USDC |
 
 ---
 
