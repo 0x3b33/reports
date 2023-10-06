@@ -1,12 +1,12 @@
 | Severity | Title | 
 |:--:|:---|
-| [H-01](#h-01-refinance-reduces-the-pool's-balance-by-the-debt-twice) | `refinance` reduces the pool's balance by the debt twice |
+| [H-01](#h-01-refinance-reduces-the-pools-balance-by-the-debt-twice) | `refinance` reduces the pool's balance by the debt twice |
 | [H-02](#h-02-front-running-the-first-deposit-on-stake-yields-the-whole-weth-amount) | Front-runnig the first deposit on stake yealds the whole WETH amount |
 | [H-03](#h-03-any-lender-can-drain-the-contract) | Any lender can drain the contract | 
 | [H-04](#h-04-any-borrower-can-avoid-liquidation-by-doing-a-refinance-with-small-amounts-of-tokens) | Any borrower can avid liquidation by doing a `refinance` with small amounts of tokens |
 | [H-05](#h-05-due-to-sellprofits-being-public-people-can-reduce-the-profits-for-the-system) | Due to `sellProfits` being public, people can reduce the profits for the system |
 | [H-06](#h-06-any-user-can-drain-the-contract-with-the-help-of-setpool) | Any User can drain the contract with the help of `setPool` |
-| [H-07](#h-07-buyloan-can-be-called-on-another-user's-pool-thus-messing-up-their-plans) | `buyLoan` can be called on another user's pool, thus messing up their plans |
+| [H-07](#h-07-buyloan-can-be-called-on-another-users-pool-thus-messing-up-their-plans) | `buyLoan` can be called on another user's pool, thus messing up their plans |
 | [M-01](#m-01-no-slippage-check-in-sellprofits-it-could-be-exploited-by-a-mev-bot) | No slippage check in `sellProfits`, it could be exploited by a MEV bot |
 | [M-02](#m-02-user-can-drain-fees-due-to-them-using-the-uni-swap-router) | User can drain Fees due to them using the UNI swap router |
 | [M-03](#m-03-lack-of-specific-time-input-can-result-in-mevs-exploiting-sellprofits) | Lack of specific time input can result in MEVs exploiting `sellProfits` |
