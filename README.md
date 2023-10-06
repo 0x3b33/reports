@@ -19,7 +19,7 @@
 
 | Contest | High risk | Medium risk | Security report  | Payout  | Analysis |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/tree/master/c4/2023-06-lybra) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analysis.md) | 1,819.66 USDC |
+| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analysis.md) | 1,819.66 USDC |
 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analysis | 4,094.99 USDC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analysis | 524.96 USDC |
