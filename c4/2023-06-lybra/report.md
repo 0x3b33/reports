@@ -1,9 +1,9 @@
 
 | Severity | Title | 
 |:--:|:---|
-| [H-01](#h-01-all-the-functions-in-LybraConfigurator.sol-can-be-called-by-malicious-accounts) | All the functions in LybraConfigurator.sol can be called by malicious accounts |
+| [H-01](#h-01-all-the-functions-in-lybraconfigurator-can-be-called-by-malicious-accounts) | All the functions in LybraConfigurator.sol can be called by malicious accounts |
 
-## [H-01] All the functions in LybraConfigurator.sol can be called by malicious accounts
+## [H-01] All the functions in LybraConfigurator can be called by malicious accounts
 
 ## Impact
 All the functions in LybraConfigurator.sol can be called by malicious accounts. This breaks the whole protocol, as anyone can change the tokens, the fees and the ratios, the borrow apy or mint unlimited amount of tokens, etc..
