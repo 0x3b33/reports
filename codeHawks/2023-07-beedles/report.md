@@ -1,9 +1,9 @@
 | Severity | Title | 
 |:--:|:---|
 | [H-01](#h-01-refinance-reduces-the-pools-balance-by-the-debt-twice) | `refinance` reduces the pool's balance by the debt twice |
-| [H-02](#h-02-front-running-the-first-deposit-on-stake-yields-the-whole-weth-amount) | Front-runnig the first deposit on stake yealds the whole WETH amount |
+| [H-02](#h-02-front-running-the-first-deposit-on-stake-yields-the-whole-weth-amount) | Front runnig the first deposit on stake yealds the whole WETH amount |
 | [H-03](#h-03-any-lender-can-drain-the-contract) | Any lender can drain the contract | 
-| [H-04](#h-04-any-borrower-can-avoid-liquidation-by-doing-a-refinance-with-small-amounts-of-tokens) | Any borrower can avid liquidation by doing a `refinance` with small amounts of tokens |
+| [H-04](#h-04-any-borrower-can-avoid-liquidation-by-doing-a-refinance-with-small-amounts-of-tokens) | Any borrower can avoid liquidation by doing a `refinance` with small amounts of tokens |
 | [H-05](#h-05-due-to-sellprofits-being-public-people-can-reduce-the-profits-for-the-system) | Due to `sellProfits` being public, people can reduce the profits for the system |
 | [H-06](#h-06-any-user-can-drain-the-contract-with-the-help-of-setpool) | Any User can drain the contract with the help of `setPool` |
 | [H-07](#h-07-buyloan-can-be-called-on-another-users-pool-thus-messing-up-their-plans) | `buyLoan` can be called on another user's pool, thus messing up their plans |
@@ -68,7 +68,7 @@ Deduct the debt from the pool balance only once, and remove the [second](https:/
 ```
 
 
-## [H-02] Front-runnig the first deposit on stake yealds the whole WETH amount
+## [H-02] Front runnig the first deposit on stake yealds the whole WETH amount
 
 
 ## Summary
@@ -170,7 +170,7 @@ Manual review
 Save the amounts, then delete/update the loan and then transfer.
 
 
-## [H-04] Any borrower can avid liquidation by doing a `refinance` with small amounts of tokens
+## [H-04] Any borrower can avoid liquidation by doing a `refinance` with small amounts of tokens
 
 
 ## Summary
