@@ -1,7 +1,7 @@
 | Severity | Title | 
 |:--:|:---|
 | [H-01](#h-01-refinance-reduces-the-pools-balance-by-the-debt-twice) | `refinance` reduces the pool's balance by the debt twice |
-| [H-02](#h-02-front-running-the-first-deposit-on-stake-yields-the-whole-weth-amount) | Front runnig the first deposit on stake yealds the whole WETH amount |
+| [H-02](#h-02-front-running-the-first-deposit-on-stake-yields-the-whole-weth-amount) | Front running the first deposit on stake yealds the whole WETH amount |
 | [H-03](#h-03-any-lender-can-drain-the-contract) | Any lender can drain the contract | 
 | [H-04](#h-04-any-borrower-can-avoid-liquidation-by-doing-a-refinance-with-small-amounts-of-tokens) | Any borrower can avoid liquidation by doing a `refinance` with small amounts of tokens |
 | [H-05](#h-05-due-to-sellprofits-being-public-people-can-reduce-the-profits-for-the-system) | Due to `sellProfits` being public, people can reduce the profits for the system |
@@ -68,7 +68,7 @@ Deduct the debt from the pool balance only once, and remove the [second](https:/
 ```
 
 
-## [H-02] Front runnig the first deposit on stake yealds the whole WETH amount
+## [H-02] Front running the first deposit on stake yealds the whole WETH amount
 
 
 ## Summary
