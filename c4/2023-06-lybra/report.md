@@ -3,7 +3,7 @@
 |:--:|:---|
 | [H-01](#h-01-all-the-functions-in-lybraconfigurator-can-be-called-by-malicious-accounts) | All the functions in LybraConfigurator.sol can be called by malicious accounts |
 | [M-01](#m-01-the-governance-cant-function-correctly) | The governance can't function correctly |
-| [M-02](#m-02-rewards-could-be-stolen-on-users-who-have-withdrawn-most-of-their-lp-but-not-replayed-their-borrow) | Rewards could be stolen on users who have withdrawn most of their LP but not replayed their borrow |
+| [M-02](#m-02-rewards-could-be-stolen-on-users-who-have-withdrawn-most-of-their-lp-but-not-replayed-their-borrow) | Rewards could be stolen on users who have withdrawn most of their LP, but not replayed their borrow |
 | [M-03](#m-03-if-statement-makes-rewards-malfunction) | `if()` statement makes rewards malfunction  |
 | [M-04](#m-04-volatile-prices-can-cause-issue-when-users-try-to-do-rigidredemption) | Volatile prices can cause issue when users try to do `rigidRedemption` |
 | [M-05](#m-05-the-function-getexchangeratio-does-not-exist)  | The function `getExchangeRatio` does not exist  |
@@ -91,7 +91,7 @@ You can implement it as OZ suggest's i their [examples](https://docs.openzeppeli
     }
 ```
 
-## [M-02] Rewards could be stolen on users who have withdrawn most of their LP but not replayed their borrow
+## [M-02] Rewards could be stolen on users who have withdrawn most of their LP, but not replayed their borrow
 
 
 ## Impact
