@@ -9,9 +9,9 @@
 
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
-| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 1 | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical) | 296.14 USDC | 
-| [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-bond/high) | 99.50 USDC |  
-| [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft) | 239.83 USDC | 
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 1 | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | 296.14 USDC | 
+| [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | 99.50 USDC |  
+| [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | 239.83 USDC | 
 | [Tokemak](https://audits.sherlock.xyz/contests/101) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokemak) | - | 
 | [Allo v2](https://audits.sherlock.xyz/contests/109) | loading... | loading... | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-09-allo) | -  | 
 
