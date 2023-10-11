@@ -24,7 +24,7 @@
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analysis | 4,094.99 USDC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analysis | 524.96 USDC |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | loading... | 1 | report | Analysis | 3,092.32 USDC |
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/analysis.md) | 3,092.32 USDC |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | loading... | loading... | report | Analysis | -  |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
@@ -34,5 +34,3 @@
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/blob/master/codeHawks/2023-07-beedles/report.md) | 1399.65 USDC |
 
 ---
-
-PS. Only valid submissions are here, as I deleted the invalid ones to avoid inflating my numbers.
