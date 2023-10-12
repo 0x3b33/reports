@@ -26,7 +26,7 @@
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/analysis.md) | 3,092.32 USDC |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | loading... | loading... | report | Analysis | -  |
-
+| [ENS](https://code4rena.com/contests/2023-10-ens#top) | - | - | report | Analysis | -  |
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
 | Contest | High risk | Medium risk | Security report | Payout |
