@@ -1,7 +1,7 @@
 
 | Severity | Title | 
 |:--:|:---|
-| [M-01](#m-01-you-can deposit-for-other-users-really-small-amount-to-dos-them) | You can deposit for other users really small amount to DoS them |
+| [M-01](#m-01-you-can-deposit-for-other-users-really-small-amount-to-dos-them) | You can deposit for other users really small amount to DoS them |
 
 
 
