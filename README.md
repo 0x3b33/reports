@@ -3,7 +3,7 @@
 
 | Overall | High risk |  Medium risk |  
 |:--:|:--:|:--:|
-| 26 High/Medium | 13 High | 13 Medium | 
+| 34 High/Medium | 18 High | 16 Medium | 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
@@ -22,7 +22,7 @@
 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analysis.md) | 1,819.66 USDC |
 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | report | Analysis | 4,094.99 USDC |
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | loading... | loading... | report | Analysis | 524.96 USDC |
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 | 3 | report | Analysis | 524.96 USDC |
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | - |
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/analysis.md) | 3,092.32 USDC |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | loading... | loading... | report | Analysis | -  |
