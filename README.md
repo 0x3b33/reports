@@ -15,16 +15,16 @@
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
-| Contest | High risk | Medium risk | Security report  | Payout  | Analysis |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/analysis.md) | 1,819.66 USDC |
-| [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
-| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/analysis.md) | 4,094.99 USDC |
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 | 3 | report | Analysis | 524.96 USDC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 2 | 2 | report | Analysis | 393.16 USDC|
-| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/analysis.md) | 3,092.32 USDC |
-| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | Analysis | 179.45 USDC |
-| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | report | Analysis | 6,215.77 USDC |
+| Contest | High risk | Medium risk | Security report  | Payout   |
+|:--:|:--:|:--:|:--:|:--:|
+| [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | 1 | 6 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | 1,819.66 USDC |
+| [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | 732.43 USDC|
+| [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/report.md)| 4,094.99 USDC |
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 | 3 | report | 524.96 USDC |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 2 | 2 | report | 393.16 USDC|
+| [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | 3,092.32 USDC |
+| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | 179.45 USDC |
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | report | 6,215.77 USDC |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
