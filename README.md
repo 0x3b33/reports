@@ -3,7 +3,7 @@
 
 | Overall | High risk |  Medium risk |  
 |:--:|:--:|:--:|
-| 46 High/Medium | 24 High | 22 Medium | 
+| 47 High/Medium | 25 High | 22 Medium | 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
