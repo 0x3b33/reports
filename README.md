@@ -3,7 +3,7 @@
 
 | Overall | High risk |  Medium risk |  
 |:--:|:--:|:--:|
-| 34 High/Medium | 19 High | 16 Medium | 
+| 46 High/Medium | 24 High | 22 Medium | 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
@@ -21,9 +21,10 @@
 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | 1 | - | report | Analysis | 732.43 USDC|
 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) | 2 | - | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/analysis.md) | 4,094.99 USDC |
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 | 3 | report | Analysis | 524.96 USDC |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | loading... | loading... | report | Analysis | 393.16 |
+| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 2 | 2 | report | Analysis | 393.16 USDC|
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | [Analysis](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/analysis.md) | 3,092.32 USDC |
-| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | Analysis | 179.45  |
+| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | Analysis | 179.45 USDC |
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | report | Analysis | 6,215.77 USDC |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
@@ -32,3 +33,5 @@
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 7 | 3 | [report](https://github.com/0x3b33/portfolio/blob/master/codeHawks/2023-07-beedles/report.md) | 1399.65 USDC |
 
 ---
+
+Twitter - [0x3b](https://twitter.com/0x3b338)
