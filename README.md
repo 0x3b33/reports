@@ -1,4 +1,4 @@
-# I am 0x3b, a smart contract security researcher.
+# I am 0x3b, a smart contract security researcher
 
 My journey began in February 2022, and since then, I have participated in various contests on Code4rena, Sherlock, CodeHawks, and Cantina. I have placed in multiple top 5 positions and achieved first place in one of them.
 
@@ -15,13 +15,6 @@ Hey, I write articles, some about web3 development, some about security, and som
 |:--:|:--:|:--:|
 | 47 High/Medium | 25 High | 22 Medium | 
 
-# Sherlock
-
-| Contest | High risk | Medium risk | Security report | Payout |
-|:--:|:--:|:--:|:--:|:--:|
-| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 1 | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | 296.14 USDC | 
-| [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | 99.50 USDC |  
-| [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | 239.83 USDC | 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
@@ -36,7 +29,16 @@ Hey, I write articles, some about web3 development, some about security, and som
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | 179.45 USDC |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | report | 6,215.77 USDC |
 
-# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
+
+# Sherlock
+
+| Contest | High risk | Medium risk | Security report | Payout |
+|:--:|:--:|:--:|:--:|:--:|
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 1 | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | 296.14 USDC | 
+| [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | 99.50 USDC |  
+| [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | 239.83 USDC | 
+
+# CodeHawks
 
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
@@ -46,3 +48,4 @@ Hey, I write articles, some about web3 development, some about security, and som
 
 Twitter - [0x3b](https://twitter.com/0x3b338)
 Mirror - [Pyro](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
+C4 profile - [0x3b](https://code4rena.com/@0x3b)
