@@ -1,3 +1,13 @@
+# I am 0x3b, a smart contract security researcher.
+
+My journey began in February 2022, and since then, I have participated in various contests on Code4rena, Sherlock, CodeHawks, and Cantina. I have placed in multiple top 5 positions and achieved first place in one of them.
+
+I have audited lending protocols, DAOs, perpetuals, AMMs, liquidity management vaults, and all kinds of Uniswap v3 integrations.
+
+### Personal Projects
+Hey, I write articles, some about web3 development, some about security, and some for optimizing your mind.
+
+---
 
 # Summary
 
@@ -5,7 +15,7 @@
 |:--:|:--:|:--:|
 | 47 High/Medium | 25 High | 22 Medium | 
 
-# Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
+# Sherlock
 
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
@@ -35,3 +45,4 @@
 ---
 
 Twitter - [0x3b](https://twitter.com/0x3b338)
+Mirror - [Pyro](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
