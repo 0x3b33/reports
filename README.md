@@ -46,6 +46,6 @@ Hey, I write articles, some about web3 development, some about security, and som
 
 ---
 
-- Twitter - [0x3b](https://twitter.com/0x3b338)
-- Mirror - [Pyro](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
-- C4 profile - [0x3b](https://code4rena.com/@0x3b)
+- [Twitter](https://twitter.com/0x3b338)
+- [Mirror](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
+- [C4 profile](https://code4rena.com/@0x3b)
