@@ -133,7 +133,7 @@ A simple solution would be to modify the code to also return the unused WETH by 
 ```
 
 
-# [M-02] `addLiquidity` under **ReLPContract**  lacks a slippage check, which leads to losses
+# [M-02] `addLiquidity` under **ReLPContract** lacks a slippage check, which leads to losses
 
 ## Impact
 [addLiquidity](https://github.com/code-423n4/2023-08-dopex/blob/main/contracts/reLP/ReLPContract.sol#L286-L295) has a slippage input that in neglected in the current code, which combined with the non-existent deadline leads to losses and unpredictable trades.
