@@ -27,7 +27,7 @@ Hey, I write articles, some about web3 development, some about security, and som
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 2 | 2 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-08-dopex/report.md) | 393.16 USDC|
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | 3,092.32 USDC |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | 179.45 USDC |
-| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | report | 6,215.77 USDC |
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | 6,215.77 USDC |
 
 
 # Sherlock
