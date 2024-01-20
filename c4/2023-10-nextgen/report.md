@@ -57,7 +57,7 @@ lastMintDate[col] = collectionPhases[col].allowlistStartTime + (collectionPhases
 ```
 
 
-# [H-02] Winner and bidders can double refunds their bids
+# [H-02] Winner and bidders can double refund their bids
 
 ## Impact
 Due to [claimAuction](https://github.com/code-423n4/2023-10-nextgen/blob/main/smart-contracts/AuctionDemo.sol#L104-L120) and [cancelBid](https://github.com/code-423n4/2023-10-nextgen/blob/main/smart-contracts/AuctionDemo.sol#L124-L130) both using `=` in their time equations, bidders will be able to double refunds their bids.
@@ -147,7 +147,7 @@ Add [nonReentrant](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/m
 
 
 
-# [M-01] Bidder can acidentally bid after the auction has ended, leaving his bid stuck in the contract
+# [M-01] Bidder can accidentally bid after the auction has ended, leaving his bid stuck in the contract
 
 ## Impact
 [claimAuction](https://github.com/code-423n4/2023-10-nextgen/blob/main/smart-contracts/AuctionDemo.sol#L104-L120) and [participateToAuction](https://github.com/code-423n4/2023-10-nextgen/blob/main/smart-contracts/AuctionDemo.sol#L58) both use `<=`, which can result in bidders accidentally bidding immediately after the auction ends. This can lead to their bids becoming stuck in the contract.
