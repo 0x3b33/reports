@@ -73,7 +73,7 @@ Use lower precision for the rounding -- 1e4 as an example.
 
 
 
-# [H-02] **PerpetualAtlanticVaultLP** `subtractLoss` can  be DoS by donation attack
+# [H-02] **PerpetualAtlanticVaultLP** `subtractLoss` can be DoS by donation attack
 
 ## Impact
 [subtractLoss](https://github.com/code-423n4/2023-08-dopex/blob/main/contracts/perp-vault/PerpetualAtlanticVaultLP.sol#L199-L205) `require` statement makes it possible to DoS this function and makes **PerpetualAtlanticVault** [settle](https://github.com/code-423n4/2023-08-dopex/blob/main/contracts/perp-vault/PerpetualAtlanticVault.sol#L315-L369) unusable. 
@@ -133,7 +133,7 @@ A simple solution would be to modify the code to also return the unused WETH by 
 ```
 
 
-# [M-02] `addLiquidity` under **ReLPContract**  lacks a  slippage check, which leads to losses
+# [M-02] `addLiquidity` under **ReLPContract**  lacks a slippage check, which leads to losses
 
 ## Impact
 [addLiquidity](https://github.com/code-423n4/2023-08-dopex/blob/main/contracts/reLP/ReLPContract.sol#L286-L295) has a slippage input that in neglected in the current code, which combined with the non-existent deadline leads to losses and unpredictable trades.
