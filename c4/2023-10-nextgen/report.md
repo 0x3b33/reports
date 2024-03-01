@@ -364,4 +364,3 @@ Manual review
 ## Recommended Mitigation Steps
 Utilize the pull method instead of the push method. This can be achieved by creating another function that allows users to manually withdraw their funds after the auction concludes.
 
-
